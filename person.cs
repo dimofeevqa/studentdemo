@@ -13,7 +13,7 @@ class Person
         Age = age;
     }
 
-    // Fix Method to display person details
+    // Fix Method to display person details.
     public void Introduce()
     {
         Console.WriteLine($"Hi, my name is {Name} and I am {Age} years old.");
