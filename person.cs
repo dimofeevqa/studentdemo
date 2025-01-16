@@ -2,7 +2,7 @@ using System;
 
 class Person
 {
-    // Properties
+    // Funny Properties
     public string Name { get; set; }
     public int Age { get; set; }
 
